@@ -31,7 +31,7 @@ The application allows users to search for weather data by city name or by coord
 
 ### Installation
 - Step 1: Clone the repository (Run the following commands in a Terminal application): \
-  git clone https://github.com/marcopolo-code/chat-application.git \
+  git clone https://github.com/marcopolo-code/chat-application.git](https://github.com/marcopolo-code/weather_application.git \
   cd weather-application
 - Step 2: Compile the source code using the following command: javac -d bin WeatherData.java MainUI.java
 - Step 3: Run the application: java -cp bin MainUI
